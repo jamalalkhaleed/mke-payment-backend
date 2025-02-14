@@ -1,0 +1,3 @@
+PORT=4000
+DB_URI=mongodb://localhost/mke_db
+API_KEY=DQY6deo8bDaxPWoF9FVpDHdilFEmF32w

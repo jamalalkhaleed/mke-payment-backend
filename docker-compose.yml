@@ -1,0 +1,10 @@
+version: '3'
+networks:
+  my_vps_network:
+services:
+  backend:
+    build: .
+    ports:
+      - "4000:4000"
+    networks:
+      - "195.110.58.79"
